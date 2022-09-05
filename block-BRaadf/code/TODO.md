@@ -7,6 +7,9 @@ To ren this app you need to do the following
 
 ## Dark mode using context
 
+
+
+
 - We have an application with dark/light mode
 - In this example we are passing data using props
 - To make this applicationw work we are passing data on multiple level
